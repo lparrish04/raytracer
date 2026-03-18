@@ -1,7 +1,7 @@
 CMAKE_MINIMUM_REQUIRED(VERSION 3.5)
 
 # Name of the project
-PROJECT(Assignment6)
+PROJECT(lparrish04_raytracer)
 
 # Get the list of all files.
 FILE(GLOB_RECURSE SOURCES "src/*.cpp")
